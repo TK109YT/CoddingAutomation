@@ -380,7 +380,7 @@ def OpenProyect():
                 print(colored("\n[X] Error ==> ", 'red') + "The code editor was not found!")
                 print(colored("[!] Aborting...\n", 'yellow'))
                 sys.exit(1)
-\
+              
     except Exception as e:
         print(colored(f"\n[X] An unexpected error has ocurred --> {e}", 'red'))
         sys.exit(1)
