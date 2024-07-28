@@ -10,11 +10,11 @@ A simple script in python to create the distribution of diferent types of coddin
 
 Use this to clone the whole repo
 
-`git clone https://github.com/TK109YT/CoddingAutomation` 
+`git clone https://github.com/Zyroxsh/CoddingAutomation` 
 
 Or use this to get the script
 
-`wget https://raw.githubusercontent.com/TK109YT/CoddingAutomation/main/Codding.py`
+`wget https://raw.githubusercontent.com/Zyroxsh/CoddingAutomation/main/Codding.py`
 
 
 2. This step is optional but you can move the script to any route of your path to execute it easy
